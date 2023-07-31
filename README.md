@@ -1,5 +1,7 @@
 Uma fake API para uma aplicação de fotos
 
+Base URL: https://photo-fake-api.onrender.com/
+
 ## ROTAS
 
 ### Fotos /photos GET
